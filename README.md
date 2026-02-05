@@ -8,10 +8,11 @@
 
 This project analyzes **chemical safety and regulatory exposure across the U.S. cosmetics industry**, using public regulatory disclosures to identify **systemic risk patterns** at the **market, category, and company level.**
 
-The study began as a **broad chemical risk assessment** across all regulated ingredients.
+The study began as a **exploratory assessment** across regulated cosmetic ingredients.
 Through exploratory analysis, **Titanium Dioxide emerged as the most dominant and structurally embedded chemical**, accounting for the majority of product-level exposure and representing the **largest potential regulatory risk** to the industry.
 
 The final outcome is a **decision-grade risk intelligence dashboard** focused on **where regulation would have the greatest impact.**
+While the analytical model supports multi-chemical regulatory analysis, this case study focuses on Titanium Dioxide as the highest-impact exposure driver identified during exploration.
 
 ---
 
@@ -175,3 +176,4 @@ Titanium Dioxide was not assumed to be the risk — the data revealed it.
 Business Intelligence & Data Analytics  
 
 Former Management Consultant
+
